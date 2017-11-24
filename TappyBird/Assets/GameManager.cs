@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BallController : MonoBehaviour {
+public class GameManager : MonoBehaviour {
+    public static GameManager instance;
 
-
-  
+    
 	// Use this for initialization
 	void Start () {
 		

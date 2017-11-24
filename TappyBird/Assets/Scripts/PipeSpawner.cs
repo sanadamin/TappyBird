@@ -21,7 +21,7 @@ public class PipeSpawner : MonoBehaviour {
     }
 	// Use this for initialization
 	void Start () {
-        StartSpawningPipes();
+        
 	}
 	
 	// Update is called once per frame
